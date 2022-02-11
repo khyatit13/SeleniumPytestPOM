@@ -1,0 +1,562 @@
+2022-02-10 17:28:59,097 - Test_carwale.py:[68] - [INFO] - @@@@@@@@@@@@@Inside New CarBrand@@@@@@@@@@@
+2022-02-10 17:28:59,097 - HomePage.py:[18] - [INFO] - Entered goToNew_cars
+2022-02-10 17:28:59,097 - BasePage.py:[41] - [INFO] - Reached Mouse hover
+2022-02-10 17:28:59,097 - BasePage.py:[43] - [INFO] - Next Step is to find element
+2022-02-10 17:28:59,110 - BasePage.py:[46] - [INFO] - <selenium.webdriver.remote.webelement.WebElement (session="99563cca373727d75e26c17ab10be0d6", element="b38a43e6-abe3-411a-8443-99131563f272")>
+2022-02-10 17:28:59,384 - BasePage.py:[51] - [INFO] - Moving to an elementnewcar_XPATH
+2022-02-10 17:28:59,463 - BasePage.py:[27] - [INFO] - Clicking on the elementfindNewCars_XPATH
+2022-02-10 17:29:04,550 - BasePage.py:[27] - [INFO] - Clicking on the elementbmw_XPATH
+2022-02-10 17:29:04,550 - CarBase.py:[15] - [INFO] - entered
+2022-02-10 17:29:05,360 - Test_carwale.py:[75] - [INFO] - BMW Cars
+2022-02-10 17:29:05,436 - BasePage.py:[64] - [INFO] - entered get elements
+2022-02-10 17:29:12,444 - Test_carwale.py:[68] - [INFO] - @@@@@@@@@@@@@Inside New CarBrand@@@@@@@@@@@
+2022-02-10 17:29:12,444 - HomePage.py:[18] - [INFO] - Entered goToNew_cars
+2022-02-10 17:29:12,444 - BasePage.py:[41] - [INFO] - Reached Mouse hover
+2022-02-10 17:29:12,444 - BasePage.py:[43] - [INFO] - Next Step is to find element
+2022-02-10 17:29:12,458 - BasePage.py:[46] - [INFO] - <selenium.webdriver.remote.webelement.WebElement (session="cb5bce41a26ea071cb29632e4e383f6c", element="8509e398-d924-4931-b732-1a6e0033b5b8")>
+2022-02-10 17:29:12,741 - BasePage.py:[51] - [INFO] - Moving to an elementnewcar_XPATH
+2022-02-10 17:29:12,820 - BasePage.py:[27] - [INFO] - Clicking on the elementfindNewCars_XPATH
+2022-02-10 17:29:17,915 - BasePage.py:[27] - [INFO] - Clicking on the elementhyundai_XPATH
+2022-02-10 17:29:17,916 - CarBase.py:[15] - [INFO] - entered
+2022-02-10 17:29:18,763 - Test_carwale.py:[94] - [INFO] - Hyundai Cars
+2022-02-10 17:29:18,829 - BasePage.py:[64] - [INFO] - entered get elements
+2022-02-10 17:31:53,779 - Test_carwale.py:[68] - [INFO] - @@@@@@@@@@@@@Inside New CarBrand@@@@@@@@@@@
+2022-02-10 17:31:53,779 - HomePage.py:[18] - [INFO] - Entered goToNew_cars
+2022-02-10 17:31:53,779 - BasePage.py:[41] - [INFO] - Reached Mouse hover
+2022-02-10 17:31:53,779 - BasePage.py:[43] - [INFO] - Next Step is to find element
+2022-02-10 17:31:53,824 - BasePage.py:[46] - [INFO] - <selenium.webdriver.remote.webelement.WebElement (session="0c578d993ed6103aaf340eccb470753e", element="48085934-aec2-4e36-89e3-7ec1502d5b86")>
+2022-02-10 17:31:54,107 - BasePage.py:[51] - [INFO] - Moving to an elementnewcar_XPATH
+2022-02-10 17:31:54,177 - BasePage.py:[27] - [INFO] - Clicking on the elementfindNewCars_XPATH
+2022-02-10 17:31:59,270 - BasePage.py:[27] - [INFO] - Clicking on the elementbmw_XPATH
+2022-02-10 17:31:59,271 - CarBase.py:[15] - [INFO] - entered
+2022-02-10 17:32:00,015 - Test_carwale.py:[75] - [INFO] - BMW Cars
+2022-02-10 17:32:00,133 - BasePage.py:[64] - [INFO] - entered get elements
+2022-02-10 17:32:00,160 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:00,183 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:00,206 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:00,231 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:00,253 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:00,282 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:00,304 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:00,333 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:00,365 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:00,400 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:00,429 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:00,473 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:07,498 - Test_carwale.py:[68] - [INFO] - @@@@@@@@@@@@@Inside New CarBrand@@@@@@@@@@@
+2022-02-10 17:32:07,498 - HomePage.py:[18] - [INFO] - Entered goToNew_cars
+2022-02-10 17:32:07,498 - BasePage.py:[41] - [INFO] - Reached Mouse hover
+2022-02-10 17:32:07,498 - BasePage.py:[43] - [INFO] - Next Step is to find element
+2022-02-10 17:32:07,520 - BasePage.py:[46] - [INFO] - <selenium.webdriver.remote.webelement.WebElement (session="66fc00acde1fc5cb6df59f14c8944af2", element="d2369ec6-a7b2-4364-920d-e4244265ad66")>
+2022-02-10 17:32:07,807 - BasePage.py:[51] - [INFO] - Moving to an elementnewcar_XPATH
+2022-02-10 17:32:07,908 - BasePage.py:[27] - [INFO] - Clicking on the elementfindNewCars_XPATH
+2022-02-10 17:32:13,000 - BasePage.py:[27] - [INFO] - Clicking on the elementhyundai_XPATH
+2022-02-10 17:32:13,001 - CarBase.py:[15] - [INFO] - entered
+2022-02-10 17:32:13,760 - Test_carwale.py:[94] - [INFO] - Hyundai Cars
+2022-02-10 17:32:13,836 - BasePage.py:[64] - [INFO] - entered get elements
+2022-02-10 17:32:13,864 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:13,884 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:13,904 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:13,932 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:13,954 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:13,978 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:13,999 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:14,019 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:14,046 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:14,084 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:14,110 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:14,151 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:14,178 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:14,198 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:14,223 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:14,250 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:14,279 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:14,343 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:26,362 - Test_carwale.py:[68] - [INFO] - @@@@@@@@@@@@@Inside New CarBrand@@@@@@@@@@@
+2022-02-10 17:32:26,362 - HomePage.py:[18] - [INFO] - Entered goToNew_cars
+2022-02-10 17:32:26,362 - BasePage.py:[41] - [INFO] - Reached Mouse hover
+2022-02-10 17:32:26,362 - BasePage.py:[43] - [INFO] - Next Step is to find element
+2022-02-10 17:32:26,373 - BasePage.py:[46] - [INFO] - <selenium.webdriver.remote.webelement.WebElement (session="7140e75b891ea1a3fc0af69ba7124cf1", element="9d8b86ae-4a4a-4620-bb85-063bacb9df73")>
+2022-02-10 17:32:26,663 - BasePage.py:[51] - [INFO] - Moving to an elementnewcar_XPATH
+2022-02-10 17:32:26,761 - BasePage.py:[27] - [INFO] - Clicking on the elementfindNewCars_XPATH
+2022-02-10 17:32:31,858 - BasePage.py:[27] - [INFO] - Clicking on the elementtoyota_XPATH
+2022-02-10 17:32:31,858 - CarBase.py:[15] - [INFO] - entered
+2022-02-10 17:32:32,530 - Test_carwale.py:[88] - [INFO] - Toyota Cars
+2022-02-10 17:32:32,565 - BasePage.py:[64] - [INFO] - entered get elements
+2022-02-10 17:32:32,638 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:32,664 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:32,691 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:32,718 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:32,739 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:32,763 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:32,783 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:32,803 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:32,823 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:44,601 - Test_carwale.py:[68] - [INFO] - @@@@@@@@@@@@@Inside New CarBrand@@@@@@@@@@@
+2022-02-10 17:32:44,601 - HomePage.py:[18] - [INFO] - Entered goToNew_cars
+2022-02-10 17:32:44,601 - BasePage.py:[41] - [INFO] - Reached Mouse hover
+2022-02-10 17:32:44,602 - BasePage.py:[43] - [INFO] - Next Step is to find element
+2022-02-10 17:32:44,643 - BasePage.py:[46] - [INFO] - <selenium.webdriver.remote.webelement.WebElement (session="6376e0d484dcaa1da5ba229d9ad4677f", element="6605994f-d7fd-4356-92f5-3cffcb2f08ab")>
+2022-02-10 17:32:44,931 - BasePage.py:[51] - [INFO] - Moving to an elementnewcar_XPATH
+2022-02-10 17:32:45,026 - BasePage.py:[27] - [INFO] - Clicking on the elementfindNewCars_XPATH
+2022-02-10 17:32:50,107 - BasePage.py:[27] - [INFO] - Clicking on the elementhonda_XPATH
+2022-02-10 17:32:50,108 - CarBase.py:[15] - [INFO] - entered
+2022-02-10 17:32:50,829 - Test_carwale.py:[82] - [INFO] - Honda Cars
+2022-02-10 17:32:50,880 - BasePage.py:[64] - [INFO] - entered get elements
+2022-02-10 17:32:50,917 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:50,939 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:50,964 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:50,984 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:51,004 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:32:51,031 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:33:09,662 - Test_carwale.py:[68] - [INFO] - @@@@@@@@@@@@@Inside New CarBrand@@@@@@@@@@@
+2022-02-10 17:33:09,663 - HomePage.py:[18] - [INFO] - Entered goToNew_cars
+2022-02-10 17:33:09,663 - BasePage.py:[41] - [INFO] - Reached Mouse hover
+2022-02-10 17:33:09,663 - BasePage.py:[43] - [INFO] - Next Step is to find element
+2022-02-10 17:33:09,681 - BasePage.py:[46] - [INFO] - <selenium.webdriver.remote.webelement.WebElement (session="a67d06e6-44c7-4782-bf95-9067302eaae3", element="a2eb9a8e-914b-4423-9eea-ba24e5453433")>
+2022-02-10 17:33:09,944 - BasePage.py:[51] - [INFO] - Moving to an elementnewcar_XPATH
+2022-02-10 17:33:10,488 - BasePage.py:[27] - [INFO] - Clicking on the elementfindNewCars_XPATH
+2022-02-10 17:33:15,773 - BasePage.py:[27] - [INFO] - Clicking on the elementbmw_XPATH
+2022-02-10 17:33:15,774 - CarBase.py:[15] - [INFO] - entered
+2022-02-10 17:33:16,443 - Test_carwale.py:[75] - [INFO] - BMW Cars
+2022-02-10 17:33:16,468 - BasePage.py:[64] - [INFO] - entered get elements
+2022-02-10 17:33:16,486 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:33:16,510 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:33:16,540 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:33:16,555 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:33:16,570 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:33:16,587 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:33:16,600 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:33:16,611 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:33:16,620 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:33:16,632 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:33:16,639 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:33:16,649 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:33:28,555 - Test_carwale.py:[68] - [INFO] - @@@@@@@@@@@@@Inside New CarBrand@@@@@@@@@@@
+2022-02-10 17:33:28,555 - HomePage.py:[18] - [INFO] - Entered goToNew_cars
+2022-02-10 17:33:28,556 - BasePage.py:[41] - [INFO] - Reached Mouse hover
+2022-02-10 17:33:28,556 - BasePage.py:[43] - [INFO] - Next Step is to find element
+2022-02-10 17:33:28,576 - BasePage.py:[46] - [INFO] - <selenium.webdriver.remote.webelement.WebElement (session="381e927f-adde-4aac-93aa-10d9b2f4a19c", element="6ab4fce3-0efe-42ad-b217-60f5eae179de")>
+2022-02-10 17:33:28,872 - BasePage.py:[51] - [INFO] - Moving to an elementnewcar_XPATH
+2022-02-10 17:33:29,335 - BasePage.py:[27] - [INFO] - Clicking on the elementfindNewCars_XPATH
+2022-02-10 17:33:34,618 - BasePage.py:[27] - [INFO] - Clicking on the elementhyundai_XPATH
+2022-02-10 17:33:34,618 - CarBase.py:[15] - [INFO] - entered
+2022-02-10 17:33:35,208 - Test_carwale.py:[94] - [INFO] - Hyundai Cars
+2022-02-10 17:33:35,234 - BasePage.py:[64] - [INFO] - entered get elements
+2022-02-10 17:33:35,259 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:33:35,273 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:33:35,285 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:33:35,295 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:33:35,308 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:33:35,326 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:33:35,366 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:33:35,376 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:33:35,400 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:33:35,408 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:33:35,420 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:33:35,431 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:33:35,437 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:33:35,451 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:33:35,458 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:33:35,479 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:33:35,486 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:33:35,493 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:33:51,065 - Test_carwale.py:[68] - [INFO] - @@@@@@@@@@@@@Inside New CarBrand@@@@@@@@@@@
+2022-02-10 17:33:51,066 - HomePage.py:[18] - [INFO] - Entered goToNew_cars
+2022-02-10 17:33:51,066 - BasePage.py:[41] - [INFO] - Reached Mouse hover
+2022-02-10 17:33:51,066 - BasePage.py:[43] - [INFO] - Next Step is to find element
+2022-02-10 17:33:51,078 - BasePage.py:[46] - [INFO] - <selenium.webdriver.remote.webelement.WebElement (session="3e99cede-b50e-4173-a903-f463215d7095", element="09a5c851-74fb-4fbb-add8-e3c83f804528")>
+2022-02-10 17:33:51,348 - BasePage.py:[51] - [INFO] - Moving to an elementnewcar_XPATH
+2022-02-10 17:33:51,836 - BasePage.py:[27] - [INFO] - Clicking on the elementfindNewCars_XPATH
+2022-02-10 17:33:57,119 - BasePage.py:[27] - [INFO] - Clicking on the elementtoyota_XPATH
+2022-02-10 17:33:57,119 - CarBase.py:[15] - [INFO] - entered
+2022-02-10 17:33:57,641 - Test_carwale.py:[88] - [INFO] - Toyota Cars
+2022-02-10 17:33:57,667 - BasePage.py:[64] - [INFO] - entered get elements
+2022-02-10 17:33:57,685 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:33:57,715 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:33:57,736 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:33:57,745 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:33:57,770 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:33:57,788 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:33:57,802 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:33:57,811 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:33:57,822 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:34:15,238 - Test_carwale.py:[68] - [INFO] - @@@@@@@@@@@@@Inside New CarBrand@@@@@@@@@@@
+2022-02-10 17:34:15,240 - HomePage.py:[18] - [INFO] - Entered goToNew_cars
+2022-02-10 17:34:15,240 - BasePage.py:[41] - [INFO] - Reached Mouse hover
+2022-02-10 17:34:15,240 - BasePage.py:[43] - [INFO] - Next Step is to find element
+2022-02-10 17:34:15,291 - BasePage.py:[46] - [INFO] - <selenium.webdriver.remote.webelement.WebElement (session="80cc2337-1f3b-4f54-8786-5cb826e5f7f4", element="3722b0c0-a68c-4825-a7a0-3e6312f40c13")>
+2022-02-10 17:34:15,586 - BasePage.py:[51] - [INFO] - Moving to an elementnewcar_XPATH
+2022-02-10 17:34:15,961 - BasePage.py:[27] - [INFO] - Clicking on the elementfindNewCars_XPATH
+2022-02-10 17:34:21,240 - BasePage.py:[27] - [INFO] - Clicking on the elementhonda_XPATH
+2022-02-10 17:34:21,240 - CarBase.py:[15] - [INFO] - entered
+2022-02-10 17:34:21,749 - Test_carwale.py:[82] - [INFO] - Honda Cars
+2022-02-10 17:34:21,774 - BasePage.py:[64] - [INFO] - entered get elements
+2022-02-10 17:34:21,795 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:34:21,839 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:34:21,855 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:34:21,868 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:34:21,877 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 17:34:21,888 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 18:07:54,935 - Test_carwale.py:[68] - [INFO] - @@@@@@@@@@@@@Inside New CarBrand@@@@@@@@@@@
+2022-02-10 18:07:54,936 - HomePage.py:[18] - [INFO] - Entered goToNew_cars
+2022-02-10 18:07:54,936 - BasePage.py:[41] - [INFO] - Reached Mouse hover
+2022-02-10 18:07:54,936 - BasePage.py:[43] - [INFO] - Next Step is to find element
+2022-02-10 18:07:54,947 - BasePage.py:[46] - [INFO] - <selenium.webdriver.remote.webelement.WebElement (session="0891b7568a028bc4e095132e2357310f", element="92ae13e1-4ee9-46e8-9b27-079f22d423f7")>
+2022-02-10 18:07:55,239 - BasePage.py:[51] - [INFO] - Moving to an elementnewcar_XPATH
+2022-02-10 18:08:13,505 - Test_carwale.py:[68] - [INFO] - @@@@@@@@@@@@@Inside New CarBrand@@@@@@@@@@@
+2022-02-10 18:08:13,505 - HomePage.py:[18] - [INFO] - Entered goToNew_cars
+2022-02-10 18:08:13,505 - BasePage.py:[41] - [INFO] - Reached Mouse hover
+2022-02-10 18:08:13,506 - BasePage.py:[43] - [INFO] - Next Step is to find element
+2022-02-10 18:08:13,516 - BasePage.py:[46] - [INFO] - <selenium.webdriver.remote.webelement.WebElement (session="43f663f878be1d0701eb75ba1fe963bf", element="10d1f4e8-1628-4fb9-96a7-caa1ebf2d064")>
+2022-02-10 18:08:13,829 - BasePage.py:[51] - [INFO] - Moving to an elementnewcar_XPATH
+2022-02-10 18:08:13,918 - BasePage.py:[27] - [INFO] - Clicking on the elementfindNewCars_XPATH
+2022-02-10 19:11:43,695 - Test_carwale.py:[68] - [INFO] - @@@@@@@@@@@@@Inside New CarBrand@@@@@@@@@@@
+2022-02-10 19:11:43,695 - HomePage.py:[18] - [INFO] - Entered goToNew_cars
+2022-02-10 19:11:43,696 - BasePage.py:[41] - [INFO] - Reached Mouse hover
+2022-02-10 19:11:43,696 - BasePage.py:[43] - [INFO] - Next Step is to find element
+2022-02-10 19:11:43,710 - BasePage.py:[46] - [INFO] - <selenium.webdriver.remote.webelement.WebElement (session="ed9c080b43bfc4f9bd3617ccacc9ec92", element="3ac0d8df-b03c-4312-a95f-f272796eb0bd")>
+2022-02-10 19:11:44,012 - BasePage.py:[51] - [INFO] - Moving to an elementnewcar_XPATH
+2022-02-10 19:11:44,105 - BasePage.py:[27] - [INFO] - Clicking on the elementfindNewCars_XPATH
+2022-02-10 19:11:49,202 - BasePage.py:[27] - [INFO] - Clicking on the elementbmw_XPATH
+2022-02-10 19:11:49,202 - CarBase.py:[15] - [INFO] - entered
+2022-02-10 19:11:50,446 - Test_carwale.py:[75] - [INFO] - BMW Cars
+2022-02-10 19:11:50,517 - BasePage.py:[64] - [INFO] - entered get elements
+2022-02-10 19:11:50,542 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:11:50,563 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:11:50,584 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:11:50,605 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:11:50,626 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:11:50,648 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:11:50,671 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:11:50,692 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:11:50,716 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:11:50,738 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:11:50,758 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:11:50,780 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:11:58,323 - Test_carwale.py:[68] - [INFO] - @@@@@@@@@@@@@Inside New CarBrand@@@@@@@@@@@
+2022-02-10 19:11:58,323 - HomePage.py:[18] - [INFO] - Entered goToNew_cars
+2022-02-10 19:11:58,323 - BasePage.py:[41] - [INFO] - Reached Mouse hover
+2022-02-10 19:11:58,323 - BasePage.py:[43] - [INFO] - Next Step is to find element
+2022-02-10 19:11:58,338 - BasePage.py:[46] - [INFO] - <selenium.webdriver.remote.webelement.WebElement (session="a98e6e497ff4e30ad933a916f3686955", element="55a70787-237d-42a4-ac8a-7b9b9d16dc05")>
+2022-02-10 19:11:58,608 - BasePage.py:[51] - [INFO] - Moving to an elementnewcar_XPATH
+2022-02-10 19:11:58,708 - BasePage.py:[27] - [INFO] - Clicking on the elementfindNewCars_XPATH
+2022-02-10 19:12:03,804 - BasePage.py:[27] - [INFO] - Clicking on the elementhyundai_XPATH
+2022-02-10 19:12:03,804 - CarBase.py:[15] - [INFO] - entered
+2022-02-10 19:12:04,596 - Test_carwale.py:[94] - [INFO] - Hyundai Cars
+2022-02-10 19:12:04,682 - BasePage.py:[64] - [INFO] - entered get elements
+2022-02-10 19:12:04,711 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:12:04,739 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:12:04,762 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:12:04,788 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:12:04,811 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:12:04,833 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:12:04,858 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:12:04,880 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:12:04,908 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:12:04,944 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:12:04,977 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:12:05,000 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:12:05,046 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:12:05,072 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:12:05,096 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:12:05,126 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:12:05,149 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:12:05,226 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:12:16,961 - Test_carwale.py:[68] - [INFO] - @@@@@@@@@@@@@Inside New CarBrand@@@@@@@@@@@
+2022-02-10 19:12:16,961 - HomePage.py:[18] - [INFO] - Entered goToNew_cars
+2022-02-10 19:12:16,962 - BasePage.py:[41] - [INFO] - Reached Mouse hover
+2022-02-10 19:12:16,962 - BasePage.py:[43] - [INFO] - Next Step is to find element
+2022-02-10 19:12:16,998 - BasePage.py:[46] - [INFO] - <selenium.webdriver.remote.webelement.WebElement (session="138371f22b7c505d76e6f907fe345afe", element="f04636c2-83db-4e8f-9f59-47b55be25df5")>
+2022-02-10 19:12:17,341 - BasePage.py:[51] - [INFO] - Moving to an elementnewcar_XPATH
+2022-02-10 19:12:17,424 - BasePage.py:[27] - [INFO] - Clicking on the elementfindNewCars_XPATH
+2022-02-10 19:12:22,508 - BasePage.py:[27] - [INFO] - Clicking on the elementtoyota_XPATH
+2022-02-10 19:12:22,508 - CarBase.py:[15] - [INFO] - entered
+2022-02-10 19:12:23,208 - Test_carwale.py:[88] - [INFO] - Toyota Cars
+2022-02-10 19:12:23,292 - BasePage.py:[64] - [INFO] - entered get elements
+2022-02-10 19:12:23,313 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:12:23,345 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:12:23,377 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:12:23,398 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:12:23,422 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:12:23,442 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:12:23,471 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:12:23,493 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:12:23,513 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:12:35,359 - Test_carwale.py:[68] - [INFO] - @@@@@@@@@@@@@Inside New CarBrand@@@@@@@@@@@
+2022-02-10 19:12:35,359 - HomePage.py:[18] - [INFO] - Entered goToNew_cars
+2022-02-10 19:12:35,359 - BasePage.py:[41] - [INFO] - Reached Mouse hover
+2022-02-10 19:12:35,359 - BasePage.py:[43] - [INFO] - Next Step is to find element
+2022-02-10 19:12:35,399 - BasePage.py:[46] - [INFO] - <selenium.webdriver.remote.webelement.WebElement (session="126921ea31297769ec8a9e01762cce23", element="e4d7dc27-1ad5-433e-a15d-fc8a56914934")>
+2022-02-10 19:12:35,698 - BasePage.py:[51] - [INFO] - Moving to an elementnewcar_XPATH
+2022-02-10 19:12:35,936 - BasePage.py:[27] - [INFO] - Clicking on the elementfindNewCars_XPATH
+2022-02-10 19:12:41,032 - BasePage.py:[27] - [INFO] - Clicking on the elementhonda_XPATH
+2022-02-10 19:12:41,032 - CarBase.py:[15] - [INFO] - entered
+2022-02-10 19:12:41,796 - Test_carwale.py:[82] - [INFO] - Honda Cars
+2022-02-10 19:12:41,857 - BasePage.py:[64] - [INFO] - entered get elements
+2022-02-10 19:12:41,882 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:12:41,907 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:12:41,929 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:12:41,950 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:12:41,974 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:12:41,998 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:13:01,104 - Test_carwale.py:[68] - [INFO] - @@@@@@@@@@@@@Inside New CarBrand@@@@@@@@@@@
+2022-02-10 19:13:01,110 - HomePage.py:[18] - [INFO] - Entered goToNew_cars
+2022-02-10 19:13:01,110 - BasePage.py:[41] - [INFO] - Reached Mouse hover
+2022-02-10 19:13:01,111 - BasePage.py:[43] - [INFO] - Next Step is to find element
+2022-02-10 19:13:01,134 - BasePage.py:[46] - [INFO] - <selenium.webdriver.remote.webelement.WebElement (session="eeab9a7c-6da1-4bb4-9444-f3c76ae8657a", element="93813885-dcf5-4c73-bf7e-7356f0871c6d")>
+2022-02-10 19:13:01,413 - BasePage.py:[51] - [INFO] - Moving to an elementnewcar_XPATH
+2022-02-10 19:13:01,974 - BasePage.py:[27] - [INFO] - Clicking on the elementfindNewCars_XPATH
+2022-02-10 19:13:07,274 - BasePage.py:[27] - [INFO] - Clicking on the elementbmw_XPATH
+2022-02-10 19:13:07,274 - CarBase.py:[15] - [INFO] - entered
+2022-02-10 19:13:07,924 - Test_carwale.py:[75] - [INFO] - BMW Cars
+2022-02-10 19:13:07,954 - BasePage.py:[64] - [INFO] - entered get elements
+2022-02-10 19:13:07,981 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:13:08,004 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:13:08,046 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:13:08,062 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:13:08,075 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:13:08,083 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:13:08,095 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:13:08,112 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:13:08,124 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:13:08,132 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:13:08,142 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:13:08,150 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:13:18,482 - Test_carwale.py:[68] - [INFO] - @@@@@@@@@@@@@Inside New CarBrand@@@@@@@@@@@
+2022-02-10 19:13:18,482 - HomePage.py:[18] - [INFO] - Entered goToNew_cars
+2022-02-10 19:13:18,483 - BasePage.py:[41] - [INFO] - Reached Mouse hover
+2022-02-10 19:13:18,483 - BasePage.py:[43] - [INFO] - Next Step is to find element
+2022-02-10 19:13:18,526 - BasePage.py:[46] - [INFO] - <selenium.webdriver.remote.webelement.WebElement (session="33613ac7-99a4-473b-acd3-0ca98c4d63fe", element="8a48697d-ad87-4708-a2fc-f75be92c1b6b")>
+2022-02-10 19:13:18,816 - BasePage.py:[51] - [INFO] - Moving to an elementnewcar_XPATH
+2022-02-10 19:13:19,284 - BasePage.py:[27] - [INFO] - Clicking on the elementfindNewCars_XPATH
+2022-02-10 19:13:24,581 - BasePage.py:[27] - [INFO] - Clicking on the elementhyundai_XPATH
+2022-02-10 19:13:24,581 - CarBase.py:[15] - [INFO] - entered
+2022-02-10 19:13:25,277 - Test_carwale.py:[94] - [INFO] - Hyundai Cars
+2022-02-10 19:13:25,305 - BasePage.py:[64] - [INFO] - entered get elements
+2022-02-10 19:13:25,329 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:13:25,346 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:13:25,380 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:13:25,392 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:13:25,412 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:13:25,424 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:13:25,433 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:13:25,444 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:13:25,452 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:13:25,460 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:13:25,470 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:13:25,478 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:13:25,495 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:13:25,508 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:13:25,514 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:13:25,524 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:13:25,531 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:13:25,550 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:13:42,818 - Test_carwale.py:[68] - [INFO] - @@@@@@@@@@@@@Inside New CarBrand@@@@@@@@@@@
+2022-02-10 19:13:42,824 - HomePage.py:[18] - [INFO] - Entered goToNew_cars
+2022-02-10 19:13:42,825 - BasePage.py:[41] - [INFO] - Reached Mouse hover
+2022-02-10 19:13:42,826 - BasePage.py:[43] - [INFO] - Next Step is to find element
+2022-02-10 19:13:42,873 - BasePage.py:[46] - [INFO] - <selenium.webdriver.remote.webelement.WebElement (session="7f181563-3b0b-4055-8c04-0ced38cb06ae", element="4f4cd122-4329-45ff-a289-a9c40e9fabfe")>
+2022-02-10 19:13:43,150 - BasePage.py:[51] - [INFO] - Moving to an elementnewcar_XPATH
+2022-02-10 19:13:43,579 - BasePage.py:[27] - [INFO] - Clicking on the elementfindNewCars_XPATH
+2022-02-10 19:13:48,860 - BasePage.py:[27] - [INFO] - Clicking on the elementtoyota_XPATH
+2022-02-10 19:13:48,861 - CarBase.py:[15] - [INFO] - entered
+2022-02-10 19:13:49,581 - Test_carwale.py:[88] - [INFO] - Toyota Cars
+2022-02-10 19:13:49,606 - BasePage.py:[64] - [INFO] - entered get elements
+2022-02-10 19:13:49,648 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:13:49,681 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:13:49,693 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:13:49,701 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:13:49,718 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:13:49,733 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:13:49,744 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:13:49,752 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:13:49,763 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:14:05,046 - Test_carwale.py:[68] - [INFO] - @@@@@@@@@@@@@Inside New CarBrand@@@@@@@@@@@
+2022-02-10 19:14:05,046 - HomePage.py:[18] - [INFO] - Entered goToNew_cars
+2022-02-10 19:14:05,046 - BasePage.py:[41] - [INFO] - Reached Mouse hover
+2022-02-10 19:14:05,047 - BasePage.py:[43] - [INFO] - Next Step is to find element
+2022-02-10 19:14:05,061 - BasePage.py:[46] - [INFO] - <selenium.webdriver.remote.webelement.WebElement (session="8b2d249c-3795-444e-933c-4532310afad5", element="b6f4f15c-dc71-493c-92a5-0148bfcec1e3")>
+2022-02-10 19:14:05,330 - BasePage.py:[51] - [INFO] - Moving to an elementnewcar_XPATH
+2022-02-10 19:14:05,880 - BasePage.py:[27] - [INFO] - Clicking on the elementfindNewCars_XPATH
+2022-02-10 19:14:11,187 - BasePage.py:[27] - [INFO] - Clicking on the elementhonda_XPATH
+2022-02-10 19:14:11,188 - CarBase.py:[15] - [INFO] - entered
+2022-02-10 19:14:11,676 - Test_carwale.py:[82] - [INFO] - Honda Cars
+2022-02-10 19:14:11,719 - BasePage.py:[64] - [INFO] - entered get elements
+2022-02-10 19:14:11,743 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:14:11,762 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:14:11,802 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:14:11,815 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:14:11,831 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:14:11,848 - BasePage.py:[69] - [INFO] - entered for loop
+2022-02-10 19:23:15,197 - Test_carwale.py:[68] - [INFO] - @@@@@@@@@@@@@Inside New CarBrand@@@@@@@@@@@
+2022-02-10 19:23:15,198 - HomePage.py:[18] - [INFO] - Entered goToNew_cars
+2022-02-10 19:23:15,198 - BasePage.py:[41] - [INFO] - Reached Mouse hover
+2022-02-10 19:23:15,198 - BasePage.py:[43] - [INFO] - Next Step is to find element
+2022-02-10 19:23:15,589 - BasePage.py:[46] - [INFO] - <selenium.webdriver.remote.webelement.WebElement (session="b1f445c78dba598551531bd50c08258d", element="be425b8b-baa3-41bb-b531-5deee8d1a481")>
+2022-02-10 19:23:16,696 - Test_carwale.py:[68] - [INFO] - @@@@@@@@@@@@@Inside New CarBrand@@@@@@@@@@@
+2022-02-10 19:23:16,697 - HomePage.py:[18] - [INFO] - Entered goToNew_cars
+2022-02-10 19:23:16,697 - BasePage.py:[41] - [INFO] - Reached Mouse hover
+2022-02-10 19:23:16,697 - BasePage.py:[43] - [INFO] - Next Step is to find element
+2022-02-10 19:23:16,733 - BasePage.py:[46] - [INFO] - <selenium.webdriver.remote.webelement.WebElement (session="efc3a90bcaaaea818a6819348778f422", element="d5ae6396-6d42-42a3-92ba-50698d51b624")>
+2022-02-10 19:23:17,193 - Test_carwale.py:[68] - [INFO] - @@@@@@@@@@@@@Inside New CarBrand@@@@@@@@@@@
+2022-02-10 19:23:17,193 - HomePage.py:[18] - [INFO] - Entered goToNew_cars
+2022-02-10 19:23:17,193 - BasePage.py:[41] - [INFO] - Reached Mouse hover
+2022-02-10 19:23:17,194 - BasePage.py:[43] - [INFO] - Next Step is to find element
+2022-02-10 19:23:17,386 - BasePage.py:[46] - [INFO] - <selenium.webdriver.remote.webelement.WebElement (session="c672e2787e820dadfae73eb2d2deae2a", element="bff7af8b-a3c5-4680-96bf-cd029d1a187d")>
+2022-02-10 19:23:17,459 - BasePage.py:[51] - [INFO] - Moving to an elementnewcar_XPATH
+2022-02-10 19:23:17,642 - Test_carwale.py:[68] - [INFO] - @@@@@@@@@@@@@Inside New CarBrand@@@@@@@@@@@
+2022-02-10 19:23:17,642 - HomePage.py:[18] - [INFO] - Entered goToNew_cars
+2022-02-10 19:23:17,642 - BasePage.py:[41] - [INFO] - Reached Mouse hover
+2022-02-10 19:23:17,642 - BasePage.py:[43] - [INFO] - Next Step is to find element
+2022-02-10 19:23:18,391 - BasePage.py:[51] - [INFO] - Moving to an elementnewcar_XPATH
+2022-02-10 19:23:18,437 - BasePage.py:[51] - [INFO] - Moving to an elementnewcar_XPATH
+2022-02-10 19:23:18,582 - BasePage.py:[27] - [INFO] - Clicking on the elementfindNewCars_XPATH
+2022-02-10 19:23:21,563 - BasePage.py:[27] - [INFO] - Clicking on the elementfindNewCars_XPATH
+2022-02-10 19:23:23,092 - BasePage.py:[46] - [INFO] - <selenium.webdriver.remote.webelement.WebElement (session="a9bb00d474615c3b0a5ee33a6dd8de1c", element="e4ba7a99-530d-4657-8db3-f4f14e3f925e")>
+2022-02-10 19:23:23,492 - BasePage.py:[51] - [INFO] - Moving to an elementnewcar_XPATH
+2022-02-10 19:23:23,928 - BasePage.py:[27] - [INFO] - Clicking on the elementfindNewCars_XPATH
+2022-02-10 19:23:25,842 - Test_carwale.py:[68] - [INFO] - @@@@@@@@@@@@@Inside New CarBrand@@@@@@@@@@@
+2022-02-10 19:23:25,843 - HomePage.py:[18] - [INFO] - Entered goToNew_cars
+2022-02-10 19:23:25,843 - BasePage.py:[41] - [INFO] - Reached Mouse hover
+2022-02-10 19:23:25,843 - BasePage.py:[43] - [INFO] - Next Step is to find element
+2022-02-10 19:23:26,208 - Test_carwale.py:[68] - [INFO] - @@@@@@@@@@@@@Inside New CarBrand@@@@@@@@@@@
+2022-02-10 19:23:26,208 - HomePage.py:[18] - [INFO] - Entered goToNew_cars
+2022-02-10 19:23:26,208 - BasePage.py:[41] - [INFO] - Reached Mouse hover
+2022-02-10 19:23:26,208 - BasePage.py:[43] - [INFO] - Next Step is to find element
+2022-02-10 19:23:26,241 - Test_carwale.py:[68] - [INFO] - @@@@@@@@@@@@@Inside New CarBrand@@@@@@@@@@@
+2022-02-10 19:23:26,241 - HomePage.py:[18] - [INFO] - Entered goToNew_cars
+2022-02-10 19:23:26,241 - BasePage.py:[41] - [INFO] - Reached Mouse hover
+2022-02-10 19:23:26,242 - BasePage.py:[43] - [INFO] - Next Step is to find element
+2022-02-10 19:23:26,259 - BasePage.py:[46] - [INFO] - <selenium.webdriver.remote.webelement.WebElement (session="5455340d-fc30-4262-baf0-94b3b7a3bd06", element="18e6d21f-95b8-462b-be5d-965e4f4b4cfc")>
+2022-02-10 19:23:26,270 - BasePage.py:[46] - [INFO] - <selenium.webdriver.remote.webelement.WebElement (session="1b29d9af-b4a0-4de5-a4bc-6f0177ee4443", element="6133d7c1-5be9-4e7b-8cac-b058ea6ce5f6")>
+2022-02-10 19:23:26,374 - BasePage.py:[46] - [INFO] - <selenium.webdriver.remote.webelement.WebElement (session="24d51bd4-4d99-4440-827a-6a795e0f12ee", element="7d245e51-3200-4c31-941a-0275d87d5b82")>
+2022-02-10 19:23:26,539 - BasePage.py:[51] - [INFO] - Moving to an elementnewcar_XPATH
+2022-02-10 19:23:26,605 - BasePage.py:[51] - [INFO] - Moving to an elementnewcar_XPATH
+2022-02-10 19:23:27,029 - BasePage.py:[51] - [INFO] - Moving to an elementnewcar_XPATH
+2022-02-10 19:23:27,170 - BasePage.py:[27] - [INFO] - Clicking on the elementfindNewCars_XPATH
+2022-02-10 19:23:27,559 - BasePage.py:[27] - [INFO] - Clicking on the elementfindNewCars_XPATH
+2022-02-10 19:23:27,838 - BasePage.py:[27] - [INFO] - Clicking on the elementfindNewCars_XPATH
+2022-02-10 19:23:30,056 - BasePage.py:[27] - [INFO] - Clicking on the elementhonda_XPATH
+2022-02-10 19:23:30,056 - CarBase.py:[15] - [INFO] - entered
+2022-02-10 19:23:30,188 - BasePage.py:[27] - [INFO] - Clicking on the elementbmw_XPATH
+2022-02-10 19:23:30,189 - CarBase.py:[15] - [INFO] - entered
+2022-02-10 19:23:30,629 - BasePage.py:[27] - [INFO] - Clicking on the elementhyundai_XPATH
+2022-02-10 19:23:30,629 - CarBase.py:[15] - [INFO] - entered
+2022-02-10 19:23:31,453 - Test_carwale.py:[82] - [INFO] - Honda Cars
+2022-02-10 19:23:31,510 - BasePage.py:[64] - [INFO] - entered get elements
+2022-02-10 19:23:31,706 - Test_carwale.py:[75] - [INFO] - BMW Cars
+2022-02-10 19:23:31,762 - BasePage.py:[64] - [INFO] - entered get elements
+2022-02-10 19:23:32,078 - Test_carwale.py:[94] - [INFO] - Hyundai Cars
+2022-02-10 19:23:32,176 - BasePage.py:[64] - [INFO] - entered get elements
+2022-02-10 19:23:32,490 - BasePage.py:[27] - [INFO] - Clicking on the elementhonda_XPATH
+2022-02-10 19:23:32,491 - CarBase.py:[15] - [INFO] - entered
+2022-02-10 19:23:32,865 - BasePage.py:[27] - [INFO] - Clicking on the elementhyundai_XPATH
+2022-02-10 19:23:32,865 - CarBase.py:[15] - [INFO] - entered
+2022-02-10 19:23:33,233 - BasePage.py:[27] - [INFO] - Clicking on the elementbmw_XPATH
+2022-02-10 19:23:33,234 - CarBase.py:[15] - [INFO] - entered
+2022-02-10 19:23:33,706 - Test_carwale.py:[82] - [INFO] - Honda Cars
+2022-02-10 19:23:33,769 - BasePage.py:[64] - [INFO] - entered get elements
+2022-02-10 19:23:33,994 - Test_carwale.py:[94] - [INFO] - Hyundai Cars
+2022-02-10 19:23:34,050 - BasePage.py:[64] - [INFO] - entered get elements
+2022-02-10 19:23:34,391 - Test_carwale.py:[75] - [INFO] - BMW Cars
+2022-02-10 19:23:34,467 - BasePage.py:[64] - [INFO] - entered get elements
+2022-02-10 19:23:46,407 - Test_carwale.py:[68] - [INFO] - @@@@@@@@@@@@@Inside New CarBrand@@@@@@@@@@@
+2022-02-10 19:23:46,407 - HomePage.py:[18] - [INFO] - Entered goToNew_cars
+2022-02-10 19:23:46,408 - BasePage.py:[41] - [INFO] - Reached Mouse hover
+2022-02-10 19:23:46,408 - BasePage.py:[43] - [INFO] - Next Step is to find element
+2022-02-10 19:23:46,446 - BasePage.py:[46] - [INFO] - <selenium.webdriver.remote.webelement.WebElement (session="7e7547c9-e6d8-4687-ab0f-1a9f6bcd1066", element="b5218de5-2748-4918-a7aa-e658908243fa")>
+2022-02-10 19:23:46,750 - BasePage.py:[51] - [INFO] - Moving to an elementnewcar_XPATH
+2022-02-10 19:23:47,238 - BasePage.py:[27] - [INFO] - Clicking on the elementfindNewCars_XPATH
+2022-02-10 19:23:52,504 - BasePage.py:[27] - [INFO] - Clicking on the elementtoyota_XPATH
+2022-02-10 19:23:52,504 - CarBase.py:[15] - [INFO] - entered
+2022-02-10 19:23:52,999 - Test_carwale.py:[88] - [INFO] - Toyota Cars
+2022-02-10 19:23:53,022 - BasePage.py:[64] - [INFO] - entered get elements
+2022-02-10 19:24:11,744 - Test_carwale.py:[68] - [INFO] - @@@@@@@@@@@@@Inside New CarBrand@@@@@@@@@@@
+2022-02-10 19:24:11,744 - HomePage.py:[18] - [INFO] - Entered goToNew_cars
+2022-02-10 19:24:11,744 - BasePage.py:[41] - [INFO] - Reached Mouse hover
+2022-02-10 19:24:11,745 - BasePage.py:[43] - [INFO] - Next Step is to find element
+2022-02-10 19:24:11,760 - Test_carwale.py:[68] - [INFO] - @@@@@@@@@@@@@Inside New CarBrand@@@@@@@@@@@
+2022-02-10 19:24:11,761 - HomePage.py:[18] - [INFO] - Entered goToNew_cars
+2022-02-10 19:24:11,761 - BasePage.py:[41] - [INFO] - Reached Mouse hover
+2022-02-10 19:24:11,762 - BasePage.py:[43] - [INFO] - Next Step is to find element
+2022-02-10 19:24:11,791 - Test_carwale.py:[68] - [INFO] - @@@@@@@@@@@@@Inside New CarBrand@@@@@@@@@@@
+2022-02-10 19:24:11,792 - HomePage.py:[18] - [INFO] - Entered goToNew_cars
+2022-02-10 19:24:11,792 - BasePage.py:[41] - [INFO] - Reached Mouse hover
+2022-02-10 19:24:11,792 - BasePage.py:[43] - [INFO] - Next Step is to find element
+2022-02-10 19:24:11,811 - BasePage.py:[46] - [INFO] - <selenium.webdriver.remote.webelement.WebElement (session="e2bd17a1b9ac7caf5322c4fd9ef0b026", element="876ee6a1-aa20-494b-879a-f3bdf78c6636")>
+2022-02-10 19:24:12,136 - BasePage.py:[46] - [INFO] - <selenium.webdriver.remote.webelement.WebElement (session="b3b37a9334b674f8c909a6579c6be4bf", element="3f31a2b3-e97a-416c-802e-c3b9e488e18a")>
+2022-02-10 19:24:12,137 - BasePage.py:[46] - [INFO] - <selenium.webdriver.remote.webelement.WebElement (session="a03d44d0385933908ba5f5154e44cecf", element="e8d8888c-a463-4e72-8fc4-34601a6d0460")>
+2022-02-10 19:24:12,656 - BasePage.py:[51] - [INFO] - Moving to an elementnewcar_XPATH
+2022-02-10 19:24:12,720 - BasePage.py:[51] - [INFO] - Moving to an elementnewcar_XPATH
+2022-02-10 19:24:12,828 - BasePage.py:[27] - [INFO] - Clicking on the elementfindNewCars_XPATH
+2022-02-10 19:24:12,877 - BasePage.py:[51] - [INFO] - Moving to an elementnewcar_XPATH
+2022-02-10 19:24:12,925 - BasePage.py:[27] - [INFO] - Clicking on the elementfindNewCars_XPATH
+2022-02-10 19:24:13,510 - BasePage.py:[27] - [INFO] - Clicking on the elementfindNewCars_XPATH
+2022-02-10 19:24:16,759 - Test_carwale.py:[68] - [INFO] - @@@@@@@@@@@@@Inside New CarBrand@@@@@@@@@@@
+2022-02-10 19:24:16,759 - HomePage.py:[18] - [INFO] - Entered goToNew_cars
+2022-02-10 19:24:16,759 - BasePage.py:[41] - [INFO] - Reached Mouse hover
+2022-02-10 19:24:16,759 - BasePage.py:[43] - [INFO] - Next Step is to find element
+2022-02-10 19:24:16,892 - BasePage.py:[46] - [INFO] - <selenium.webdriver.remote.webelement.WebElement (session="ba428e95-2102-446e-98bc-83275e489d90", element="a9f3d7d5-f7a7-4d50-9a32-fa79cd219ff5")>
+2022-02-10 19:24:17,268 - BasePage.py:[51] - [INFO] - Moving to an elementnewcar_XPATH
+2022-02-10 19:24:17,928 - BasePage.py:[27] - [INFO] - Clicking on the elementfindNewCars_XPATH
+2022-02-10 19:24:18,042 - BasePage.py:[27] - [INFO] - Clicking on the elementhyundai_XPATH
+2022-02-10 19:24:18,043 - CarBase.py:[15] - [INFO] - entered
+2022-02-10 19:24:18,430 - BasePage.py:[27] - [INFO] - Clicking on the elementbmw_XPATH
+2022-02-10 19:24:18,430 - CarBase.py:[15] - [INFO] - entered
+2022-02-10 19:24:19,042 - BasePage.py:[27] - [INFO] - Clicking on the elementtoyota_XPATH
+2022-02-10 19:24:19,043 - CarBase.py:[15] - [INFO] - entered
+2022-02-10 19:24:20,028 - Test_carwale.py:[94] - [INFO] - Hyundai Cars
+2022-02-10 19:24:20,119 - BasePage.py:[64] - [INFO] - entered get elements
+2022-02-10 19:24:20,406 - Test_carwale.py:[75] - [INFO] - BMW Cars
+2022-02-10 19:24:20,537 - BasePage.py:[64] - [INFO] - entered get elements
+2022-02-10 19:24:20,930 - Test_carwale.py:[88] - [INFO] - Toyota Cars
+2022-02-10 19:24:21,089 - BasePage.py:[64] - [INFO] - entered get elements
+2022-02-10 19:24:23,267 - BasePage.py:[27] - [INFO] - Clicking on the elementhyundai_XPATH
+2022-02-10 19:24:23,268 - CarBase.py:[15] - [INFO] - entered
+2022-02-10 19:24:24,183 - Test_carwale.py:[94] - [INFO] - Hyundai Cars
+2022-02-10 19:24:24,222 - BasePage.py:[64] - [INFO] - entered get elements
+2022-02-10 19:24:31,082 - Test_carwale.py:[68] - [INFO] - @@@@@@@@@@@@@Inside New CarBrand@@@@@@@@@@@
+2022-02-10 19:24:31,083 - HomePage.py:[18] - [INFO] - Entered goToNew_cars
+2022-02-10 19:24:31,083 - BasePage.py:[41] - [INFO] - Reached Mouse hover
+2022-02-10 19:24:31,083 - BasePage.py:[43] - [INFO] - Next Step is to find element
+2022-02-10 19:24:31,124 - BasePage.py:[46] - [INFO] - <selenium.webdriver.remote.webelement.WebElement (session="a072791ed3f2173e04a0020616a674aa", element="79a5ec6b-b803-44de-a273-7e56d4444251")>
+2022-02-10 19:24:31,954 - BasePage.py:[51] - [INFO] - Moving to an elementnewcar_XPATH
+2022-02-10 19:24:32,379 - BasePage.py:[27] - [INFO] - Clicking on the elementfindNewCars_XPATH
+2022-02-10 19:24:38,175 - BasePage.py:[27] - [INFO] - Clicking on the elementhonda_XPATH
+2022-02-10 19:24:38,176 - CarBase.py:[15] - [INFO] - entered
+2022-02-10 19:24:40,191 - Test_carwale.py:[68] - [INFO] - @@@@@@@@@@@@@Inside New CarBrand@@@@@@@@@@@
+2022-02-10 19:24:40,192 - HomePage.py:[18] - [INFO] - Entered goToNew_cars
+2022-02-10 19:24:40,192 - BasePage.py:[41] - [INFO] - Reached Mouse hover
+2022-02-10 19:24:40,192 - BasePage.py:[43] - [INFO] - Next Step is to find element
+2022-02-10 19:24:40,365 - BasePage.py:[46] - [INFO] - <selenium.webdriver.remote.webelement.WebElement (session="33a88823-cdcc-4834-9a08-1619cea74da8", element="634efd58-3b3b-4a4b-b994-cd1bc8d13e93")>
+2022-02-10 19:24:40,717 - BasePage.py:[51] - [INFO] - Moving to an elementnewcar_XPATH
+2022-02-10 19:24:41,294 - Test_carwale.py:[82] - [INFO] - Honda Cars
+2022-02-10 19:24:41,374 - BasePage.py:[64] - [INFO] - entered get elements
+2022-02-10 19:24:41,726 - Test_carwale.py:[68] - [INFO] - @@@@@@@@@@@@@Inside New CarBrand@@@@@@@@@@@
+2022-02-10 19:24:41,726 - HomePage.py:[18] - [INFO] - Entered goToNew_cars
+2022-02-10 19:24:41,727 - BasePage.py:[41] - [INFO] - Reached Mouse hover
+2022-02-10 19:24:41,727 - BasePage.py:[43] - [INFO] - Next Step is to find element
+2022-02-10 19:24:41,778 - Test_carwale.py:[68] - [INFO] - @@@@@@@@@@@@@Inside New CarBrand@@@@@@@@@@@
+2022-02-10 19:24:41,779 - HomePage.py:[18] - [INFO] - Entered goToNew_cars
+2022-02-10 19:24:41,779 - BasePage.py:[41] - [INFO] - Reached Mouse hover
+2022-02-10 19:24:41,780 - BasePage.py:[43] - [INFO] - Next Step is to find element
+2022-02-10 19:24:41,821 - BasePage.py:[46] - [INFO] - <selenium.webdriver.remote.webelement.WebElement (session="5b46d735-d0b4-4f8f-92eb-d54e078aa41b", element="99ad2b05-c6bb-4cbf-928a-ede7b5dd497e")>
+2022-02-10 19:24:41,823 - BasePage.py:[46] - [INFO] - <selenium.webdriver.remote.webelement.WebElement (session="d45b3509-8cd1-4eb2-b4c9-e846a80f720b", element="2afecfe9-d513-43bc-9433-b5f2305daf93")>
+2022-02-10 19:24:42,052 - BasePage.py:[27] - [INFO] - Clicking on the elementfindNewCars_XPATH
+2022-02-10 19:24:42,102 - BasePage.py:[51] - [INFO] - Moving to an elementnewcar_XPATH
+2022-02-10 19:24:42,106 - BasePage.py:[51] - [INFO] - Moving to an elementnewcar_XPATH
+2022-02-10 19:24:43,190 - BasePage.py:[27] - [INFO] - Clicking on the elementfindNewCars_XPATH
+2022-02-10 19:24:43,230 - BasePage.py:[27] - [INFO] - Clicking on the elementfindNewCars_XPATH
+2022-02-10 19:24:47,364 - BasePage.py:[27] - [INFO] - Clicking on the elementbmw_XPATH
+2022-02-10 19:24:47,365 - CarBase.py:[15] - [INFO] - entered
+2022-02-10 19:24:48,163 - Test_carwale.py:[75] - [INFO] - BMW Cars
+2022-02-10 19:24:48,217 - BasePage.py:[64] - [INFO] - entered get elements
+2022-02-10 19:24:48,465 - BasePage.py:[27] - [INFO] - Clicking on the elementtoyota_XPATH
+2022-02-10 19:24:48,465 - CarBase.py:[15] - [INFO] - entered
+2022-02-10 19:24:48,551 - BasePage.py:[27] - [INFO] - Clicking on the elementhonda_XPATH
+2022-02-10 19:24:48,551 - CarBase.py:[15] - [INFO] - entered
+2022-02-10 19:24:49,268 - Test_carwale.py:[88] - [INFO] - Toyota Cars
+2022-02-10 19:24:49,313 - BasePage.py:[64] - [INFO] - entered get elements
+2022-02-10 19:24:49,314 - Test_carwale.py:[82] - [INFO] - Honda Cars
+2022-02-10 19:24:49,404 - BasePage.py:[64] - [INFO] - entered get elements

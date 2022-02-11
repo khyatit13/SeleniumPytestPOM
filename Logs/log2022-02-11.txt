@@ -1,0 +1,7 @@
+2022-02-11 11:21:58,382 - Test_carwale.py:[68] - [INFO] - @@@@@@@@@@@@@Inside New CarBrand@@@@@@@@@@@
+2022-02-11 11:21:58,382 - HomePage.py:[18] - [INFO] - Entered goToNew_cars
+2022-02-11 11:21:58,382 - BasePage.py:[41] - [INFO] - Reached Mouse hover
+2022-02-11 11:21:58,382 - BasePage.py:[43] - [INFO] - Next Step is to find element
+2022-02-11 11:21:58,400 - BasePage.py:[46] - [INFO] - <selenium.webdriver.remote.webelement.WebElement (session="720a35ce02340f8d4ccccab0f755444f", element="10ad60e9-1c55-4df1-8ec3-d412f105b94d")>
+2022-02-11 11:21:58,701 - BasePage.py:[51] - [INFO] - Moving to an elementnewcar_XPATH
+2022-02-11 11:21:58,773 - BasePage.py:[27] - [INFO] - Clicking on the elementfindNewCars_XPATH
