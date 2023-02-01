@@ -1,4 +1,4 @@
-allure-pytest==2.9.45
+allure-pytest==2.9.46
 allure-python-commons==2.9.45
 astor==0.8.1
 async-generator==1.10
